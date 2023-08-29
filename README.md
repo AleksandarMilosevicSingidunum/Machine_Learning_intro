@@ -30,7 +30,7 @@ To run the code in this repository, you'll need:
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/YourUsername/YourRepositoryName.git
+   git clone https://github.com/YourUsername/Machine_Learning_intro.git
    ```
 
 2. Navigate to the specific section's folder you're interested in.
